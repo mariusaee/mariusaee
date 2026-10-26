@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariusae"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mariusae@me.com"><img src="https://img.shields.io/badge/Email-mariusae%40me.com-EA4335?style=for-the-badge&logo=apple&logoColor=white" alt="Email"></a>
   <a href="https://swiftbook.ru"><img src="https://img.shields.io/badge/SwiftBook-Teaching%20iOS-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftBook"></a>
   <img src="https://img.shields.io/badge/Timezone-GMT%2B4-555?style=for-the-badge" alt="GMT+4">
 </p>
