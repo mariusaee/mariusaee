@@ -1,24 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on an NDA Fintech app, focusing on Coordinators and custom view models.<br>👯 I’m looking to collaborate on iOS projects using Combine and SnapKit.<br>🤝 I’m looking for help with integrating advanced IoT devices into smart home systems.<br>🌱 I’m currently learning about optimizing Raspberry Pi setups and exploring new IoT projects.<br>💬 Ask me about system administration, telecom, or my experience with Raspberry Pi and smart home setups.<br>⚡ Fun fact: I’m a huge fan of Nintendo, especially the SNES, and love building IoT gadgets for my home!
+<h1 align="center">Hi, I'm Marius 👋</h1>
+<h3 align="center">iOS developer · 7+ years · fintech, travel, enterprise</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariusaee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusae) 
-
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mariusaee&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariusaee&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariusaee&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mariusaee&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariusae"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mariusae@me.com"><img src="https://img.shields.io/badge/Email-mariusae%40me.com-EA4335?style=for-the-badge&logo=apple&logoColor=white" alt="Email"></a>
+  <a href="https://swiftbook.ru"><img src="https://img.shields.io/badge/SwiftBook-Teaching%20iOS-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftBook"></a>
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B4-555?style=for-the-badge" alt="GMT+4">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mariusaee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About me
+
+I build iOS apps for real business — a fintech trading platform used in **10+ countries**, one of Russia's largest travel booking services, and a corporate app for a global steel company. I own features end-to-end: from backlog and stakeholders to release and post-launch metrics.
+
+Right now I'm developing the **main screen of a trading app** — the dashboard that shapes the user's first impression and drives activation.
+
+### 🏆 Highlights
+
+- 📈 Rebuilt the review flow — daily ratings **×2.5**, share of 5★ reviews **40% → 86%**
+- 🤝 Relaunched the referral program across iOS, Android and web — **+76%** referred active users per month
+- 🧩 Designed a modular widget dashboard that improved **activation and DAU/MAU**
+- 🚆 Launched a railway ticketing product from scratch and took it through **RZD certification**
+- 🧪 Grew unit-test coverage and added tests to CI — **~50% fewer** post-release bugs
+- 🤖 Founded my company's **AI engineering community**
+- 🎓 Sole author of the iOS curriculum at [SwiftBook.ru](https://swiftbook.ru) — **4,000+ developers** trained
+- 📝 3 peer-reviewed papers on security, architecture and product metrics in fintech mobile apps
+
+### 🛠 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,go,php,docker,linux,git,githubactions,figma&theme=light" alt="Tech stack">
+</p>
+
+**iOS:** Swift · SwiftUI · UIKit · Swift Concurrency · Combine · MVVM · modular architecture · XCTest / XCUITest · Fastlane · SPM
+**Beyond iOS:** Android · backend (Go, PHP) · QA automation · CI/CD · a decade in IT infrastructure
+
+### 🌱 Currently
+
+- Building AI-assisted workflows for everyday iOS development
+- Learning backend development with Go and PHP
+- Open to **senior iOS roles** in the EU / UK
+
+---
+
+<p align="center"><i>“Treat mobile apps as systems — network, failure modes and load are design inputs, not afterthoughts.”</i></p>
